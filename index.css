@@ -170,10 +170,10 @@ body {
 
 .Acceuil-img .rhombus img {
     position: absolute;
-    top: -200px;
-    left: -200px;
+    top: 50%;
+    left: 50%;
     max-width: 750px;
-    transform: rotate(-45deg);
+    transform: translate(-50%, -50%) rotate(-45deg);
 }
 
 .Acceuil .rhombus2 {
